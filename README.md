@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yazart
-- 👀 I’m interested in scaffolding, dynamic intefaces, angular applications
+- 👀 I’m interested in scaffolding, dynamic interfaces, angular applications
 - 📫 How to reach me https://t.me/yazart
 
 <!---
